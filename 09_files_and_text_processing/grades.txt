@@ -1,0 +1,10 @@
+Mari;87
+Jaan;92
+Liis;78
+Toomas;55
+Kati;92
+Anna;64
+Peeter;39
+Õie;81
+Märt;73
+Üllar;58

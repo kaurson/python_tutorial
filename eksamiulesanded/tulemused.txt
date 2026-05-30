@@ -1,0 +1,3 @@
+Canada;W;W;W
+Switzerland;W;W;L
+Czech Republic;W;L;L
